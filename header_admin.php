@@ -14,7 +14,7 @@
                             <a href="produto_buscar.php">Mostrar Produtos</a>
 
                         </li>
-                          <li class="menu">
+                        <li class="menu">
                             <a href="usuario_cadastro.php">Usuário</a>
 
                         </li>
@@ -40,8 +40,8 @@
                             <a href="relatorio_contato.php">Visualizar contatos</a>
 
                         </li>
-                           <li class="menu">
-                               <a href="index.php">Sair</a>
+                            <li class="menu">
+                                <a href="index.php">Sair</a>
 
                         </li>
                     </ul>
