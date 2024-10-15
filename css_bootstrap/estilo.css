@@ -1,0 +1,36 @@
+/* Estilo CSS */
+
+
+/* Estilo do Header
+------------------------------------ */
+
+header {
+	background-image: url('../images/bg-header.jpg');
+    background-size: cover;
+
+}
+
+header h1 {
+	text-align: center;
+    color: #ffffff;
+    font-family: 'Dancing Script', cursive;
+    font-size:15vh;
+
+}
+
+footer {
+	background-image: url('../images/bg-footer.jpg');
+    background-size: cover;
+
+}
+
+footer h3 {
+    padding:1vh;
+	text-align: center;
+    color: #ffffff;
+    font-family: 'Dancing Script', cursive;
+    font-size:3vh;
+
+}
+
+

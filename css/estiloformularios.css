@@ -1,0 +1,84 @@
+﻿
+.dropdown {
+    background: none;
+    border: 1px solid #B6ADB0;
+    color: #7A6666;
+    display: block;
+    font-family: lato-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    height: 38px;
+    line-height: 38px;
+    margin: 0 0 8px;
+    padding: 0 0 0 10px;
+    text-align: left;
+    width: 558px;
+}
+
+.textbox {
+    background: none;
+    border: 1px solid #B6ADB0;
+    color: #7A6666;
+    display: block;
+    font-family: lato-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    height: 38px;
+    line-height: 38px;
+    margin: 0 0 8px;
+    padding: 0 0 0 10px;
+    text-align: left;
+    width: 548px;
+}
+
+.textboxMaior {
+    background: none;
+    border: 1px solid #B6ADB0;
+    color: #7A6666;
+    display: block;
+    font-family: lato-regular-webfont;
+    font-size: 14px;
+    font-weight: normal;
+    height: 270px;
+    line-height: 24px;
+    margin: 0 0 9px;
+    overflow: auto;
+    padding: 7px 0 0 10px;
+    resize: none;
+    text-align: left;
+    width: 548px;
+}
+
+.botao {
+    background: none;
+    border: 2px solid #c5abb4;
+    color: #a5838e;
+    cursor: pointer;
+    display: block;
+    font-family: lato-bold-webfont;
+    font-size: 16px;
+    font-weight: normal;
+    height: 40px;
+    line-height: 36px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-transform: uppercase;
+    width: 141px;
+}
+
+ol {
+    list-style-type: none;
+}
+
+    ol li {
+        margin-top: 20px;
+    }
+
+.grid {
+    width: 80%;
+    margin: 0px auto;
+    font-family: Calibri;
+    font-size: 14px;
+    text-align: center;
+}
