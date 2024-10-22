@@ -28,7 +28,7 @@ and open the template in the editor.
                         <input name="txtSenhaUsuario" type="password" class="textbox" placeholder="Senha do usuário"/></li>
                 
                     <li>
-                        <input type="submit" formaction="" name="btSalvar" value="Enviar" class="botao" />
+                        <input type="submit" name="btSalvar" value="Enviar" class="botao" />
                     </li>
 
                 

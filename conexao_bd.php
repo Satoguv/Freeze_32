@@ -44,7 +44,7 @@ function retornarDados($sql) {
         return $resultado;
     } else {
         echo "Error: " . $sql . "<br>" . mysqli_error($conn);
-        //return 0;
+        return 0;
     }
 }
 ?>

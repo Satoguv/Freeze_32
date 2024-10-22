@@ -41,7 +41,7 @@ and open the template in the editor.
         ?>
 
         <!-- CORPO -->
-        <form action="" method="post">
+        <form action="usuario_autenticar.php" method="post">
             <div id="body" class="contact">
                 <div class="footer">
                     <div class="contact">

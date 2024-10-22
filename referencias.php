@@ -1,4 +1,4 @@
-<title>Freeze Sorvetes</title>
+<title>Freeze</title>
         <link rel="stylesheet" href="css/style.css" type="text/css" />
         <link rel="stylesheet" href="css/estiloformularios.css" type="text/css" />
         <link rel="stylesheet" type="text/css" href="css/mobile.css" />
